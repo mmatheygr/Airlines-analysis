@@ -1,1 +1,2 @@
-# Airlines-analysis
+# Airlines delay analysis
+This was an analysis that I performed as a way of preparing for a technical case. The role that I assumed was a data scientist trying to help an airline figure out how they are performing against the competition in delays and what they can do to improve. The data was obtained from the Bureu of Transportation Statistics. It consisted of 12 files, one for each month. The files had to be merged together which resulted in ~ 4 GB of data and 7 million rows.
